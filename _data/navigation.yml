@@ -11,17 +11,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Advocacy"
+    url: /advocacy/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Projects"
+    url: /projects/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Music"
+    url: /music/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Writing"
+    url: /writing/
     
   - title: "CV"
     url: /cv/
