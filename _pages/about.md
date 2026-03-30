@@ -11,4 +11,4 @@ Hi, I’m Peter! I’m a student at James M. Bennett High School in Maryland, an
 
 ---
 
-Please feel free to explore my advocacy, projects, and research.
+Feel free to explore my advocacy, projects, and research!
