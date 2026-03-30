@@ -4,7 +4,7 @@ permalink: /advocacy/
 author_profile: true
 ---
 
-I am an enthusiastic advocate for STEM, health, and arts accessibility for all. Here are a few efforts I’ve been part of and helped lead.
+I am an enthusiastic advocate for STEM, health, and arts accessibility for all. Here are a few of the efforts I’ve been part of and helped lead.
 
 ### Bridge to STEM Academy, Founder
 
