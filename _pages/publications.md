@@ -17,9 +17,7 @@ author_profile: true
 ---
 
 ## Technical Reports
-
-**Jin, P. L.**, et al.  
+ 
 *Improving Proton Beam Radiotherapy by Classifying Simulated Patient Data in Compton Camera Imaging with Neural Networks.*  Technical Report HPCF-2025-5, UMBC High Performance Computing Facility, University of Maryland, Baltimore County, 2025.  [Link](https://hpcf-files.umbc.edu/research/papers/BigDataREU2025Team2.pdf)
 
-**Jin, P. L.**, et al.  
 *Using neural networks to sanitize Compton camera simulated data through the BRIDE pipeline for improving gamma imaging in proton therapy on the ada cluster.*  Technical Report HPCF-2024-5, UMBC High Performance Computing Facility, University of Maryland, Baltimore County, 2024. [Link](https://hpcf-files.umbc.edu/research/papers/BigDataREU2024Team2.pdf)
