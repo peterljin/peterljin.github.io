@@ -8,7 +8,7 @@ I am an enthusiastic advocate for STEM, health, and arts accessibility for all. 
 
 ### Bridge to STEM Academy, Founder
 
-I started a free online program to introduce students to STEM research. It became a community for learning across students from different areas and backgrounds.
+I started a free online program to introduce students to STEM research. It has become a learning community for students from many different areas and backgrounds.
 
 ### Maryland Youth Advisory Council (MYAC)
 
@@ -16,4 +16,4 @@ I serve on a state-funded youth council that advocates for the students of Maryl
 
 ### Classics for a Cause, Student Executive Director
 
-I've led and helped organize an annual music and dance concert that raises money for instruments, music lessons, and scholarships for disadvantaged music students.
+I've led and helped organize an annual music and dance concert that raises money for instruments, music lessons, and scholarships for disadvantaged students.
